@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Eduardo Nascimento 👋
 
 - 🔭 Sou um entusiasta da programação, estudo por hobby por enquanto
-- 🌱 Estudando HTML5, CSS3 and Javascript
-- 👯 Depois vou estudar Python
+- 🌱 Estudando HTML5, CSS3 e Javascript
+- 👯 Depois pretendo estudar alguns frame-works e Python
 - 🤔 
 - 💬 
 - 📫 
