@@ -2,8 +2,8 @@
 
 - 🔭 Sou um entusiasta da programação, estudo por hobby por enquanto
 - 🌱 Estudando HTML5, CSS3 e Javascript
-- 👯 Depois pretendo estudar alguns frame-works e Python
-- 🤔 
+- 👯 Recentemente comecei a estudar Python
+- 🤔 Depois pretendo aprofundar em Orientação a Objetos
 - 💬 
 - 📫 
 - 😄 Pronouns: ele/dele
